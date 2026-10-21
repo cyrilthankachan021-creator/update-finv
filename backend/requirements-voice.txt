@@ -1,0 +1,5 @@
+# Optional: local speech-to-text for the assistant's voice input (open-source Whisper via CTranslate2).
+# The Whisper model weights (~150 MB for "base") are downloaded from Hugging Face on first use, then kept locally.
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+av==13.1.0  # newer PyAV removed an option faster-whisper 1.2.1 uses

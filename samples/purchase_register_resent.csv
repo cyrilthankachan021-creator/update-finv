@@ -1,0 +1,3 @@
+Type,Invoice No,Invoice Date,Party Name,GSTIN,Place of Supply,Taxable Value,CGST,SGST,IGST,Total
+Purchase,inv 1001,10/06/2025,Sharma Stationers Pvt Ltd,27BBBCS5678L1ZN,27,10000.00,900.00,900.00,,11800.00
+Purchase,INV-1001,10/06/2025,Sharma Stationers,27BBBCS5678L1ZN,27,11000.00,990.00,990.00,,12980.00

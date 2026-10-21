@@ -1,0 +1,8 @@
+Account Code,Account Name,Type,Opening Balance,Debit,Credit,Closing Balance
+1100,Bank Account,Asset,500000.00,229500.00,11817.70,717682.30
+1200,Trade Receivables,Asset,0,29500.00,29500.00,0
+2100,Trade Payables,Liability,0,11800.00,118000.00,-106200.00
+4100,Sales,Income,0,0,25000.00,-25000.00
+5200,Rent,Expense,0,80000.00,0,80000.00
+5600,Office Expenses,Expense,0,10000.00,0,10000.00
+3100,Capital Account,Equity,-500000.00,0,200000.00,-690000.00

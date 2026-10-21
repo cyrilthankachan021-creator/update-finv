@@ -1,0 +1,17 @@
+# Pinned to releases at least two weeks old at build time (2026-10-20); re-audit with pip-audit before deploying.
+fastapi==0.142.2
+starlette==1.7.0
+uvicorn[standard]==0.54.0
+SQLAlchemy==2.1.3
+alembic==1.20.0
+pydantic==2.13.5
+python-multipart==0.0.32
+openpyxl==3.1.5
+pypdf==6.19.0
+httpx==0.28.1
+cryptography==50.0.2
+# Optional: only used when FINV_AI_PROVIDER=anthropic
+anthropic==1.11.0
+# Optional for PostgreSQL deployments: psycopg[binary]
+# GST portal preparation (visible browser, the person signs in). After installing: python -m playwright install chromium
+playwright==1.63.0
